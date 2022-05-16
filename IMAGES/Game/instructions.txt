@@ -1,1 +1,14 @@
 hello
+This is a two player game! Grab a friend and 
+play a round or two of this innovative game.
+
+The objective of the game is to try and
+escape the circle while the circle tries to eat the square.
+
+Use these keys for the circle: 
+left arrow to move it left, right arrow to move it right
+up arrow to move it up, and down arrow to move it down
+
+Use these keys for the square:
+A key to move left,S key to move down, D to go left, W to go up
+
